@@ -1,4 +1,4 @@
-# cryptographic-algorithms
+# cryptographic-algorithms-list-data
 Machine readable data formats for the SPDX cryptographic algorithms list
 
 ## Under Development
